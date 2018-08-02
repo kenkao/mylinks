@@ -1,5 +1,9 @@
 # Repositories
 
+## N
+
+- [golang/net](https://github.com/golang/net) - Go supplementary network libraries
+
 ## R
 
-- [redis(go-redis)](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
+- [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
