@@ -1,5 +1,9 @@
 # Repositories
 
+## D
+
+- [DotNetty](https://github.com/Azure/DotNetty) - a port of netty, event-driven asynchronous network application framework
+
 ## N
 
 - [golang/net](https://github.com/golang/net) - Go supplementary network libraries
