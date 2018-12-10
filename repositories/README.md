@@ -1,5 +1,9 @@
 # Repositories
 
+## A
+
+- [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
+
 ## D
 
 - [DotNetty](https://github.com/Azure/DotNetty) - a port of netty, event-driven asynchronous network application framework
@@ -11,6 +15,10 @@
 ## G
 
 - [gocode](https://github.com/nsf/gocode/) - An autocompletion daemon for the Go programming language
+
+#L
+
+- [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE
 
 ## N
 
