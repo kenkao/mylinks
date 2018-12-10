@@ -16,7 +16,7 @@
 
 - [gocode](https://github.com/nsf/gocode/) - An autocompletion daemon for the Go programming language
 
-##L
+## L
 
 - [liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE
 
