@@ -5,3 +5,5 @@
 - [Organizations](https://github.com/kenkao/mylinks/tree/master/organizations)
 
 - [Authors](https://github.com/kenkao/mylinks/tree/master/authors)
+
+- [Books](https://github.com/kenkao/mylinks/tree/master/books)
